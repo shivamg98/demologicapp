@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "demologicapp", "demologicapp\demologicapp.deployproj", "{4D63684A-6E18-42E2-B0E2-42933246AB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D63684A-6E18-42E2-B0E2-42933246AB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D63684A-6E18-42E2-B0E2-42933246AB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D63684A-6E18-42E2-B0E2-42933246AB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D63684A-6E18-42E2-B0E2-42933246AB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B52B64-A658-433C-992C-870058DD55A9}
+	EndGlobalSection
+EndGlobal
